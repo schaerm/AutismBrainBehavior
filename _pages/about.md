@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: EEG_pic.png
+  image: EEG_pic_edited.jpg
   address: >
     <p>Marie Schaer, MD PhD</p>
     <p>Assistant Professor</p>
