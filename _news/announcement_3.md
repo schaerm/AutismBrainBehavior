@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-3-22 07:59:00-0400
+date: 2021-6-14 07:59:00-0400
 inline: true
 ---
 
-Our [second MOOC](https://moocs.unige.ch/liste-de-cours/liste-des-cours-3/troubles-du-spectre-de-lautisme-biologie-et-neurosciences/){:target="\_blank"} about the biology and neuroscience of autism was just released (in French)
+ Thanks to the tremendous implication of many people, our [third MOOC](https://moocs.unige.ch/liste-de-cours/liste-des-cours-3/troubles-du-spectre-de-lautisme-interventions/){:target="\_blank"} (and last for now!) on autism is now out. A French-speaking course on intervention, designed for parents and professionals.
