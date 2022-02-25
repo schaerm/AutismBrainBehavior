@@ -6,6 +6,8 @@ description: Use machine learning techniques to predict altered social interacti
 
 ---
 
+[download the announcement in .pdf](/AutismBrainBehavior/assets/pdf/Phd_position_2022.pdf)
+
 #### Position in a nutshell:
 Use machine learning techniques to predict altered social interactions associated with autism, with large scale clinical and natural experiment data (e.g., video, sound, kinect, lidar, IoT). The scientific objective is to contribute to breakthrough results in digital phenotyping of autism. The clinical objective is to deliver technologies to scale up the screening and evaluation of autism disorder spectrum. This position is open as part of a Swiss National Science Foundation (SNSF) Sinergia research project running until 2025 in collaboration with IDIAP Research Institute and University of Applied Sciences and Arts of Southern Switzerland.
 
